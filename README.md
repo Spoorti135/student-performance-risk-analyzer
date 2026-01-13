@@ -64,8 +64,7 @@ The dataset contains the following features:
 
 ## Project Status
 ✅ Core machine learning model completed  
-📄 Documentation / report in progress  
-
+📄 Documentation 
 ---
 
 ## Conclusion
